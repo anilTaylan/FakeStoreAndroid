@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FakeStoreAndroid" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.FakeStoreAndroid.Details" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Optional: override colors or behavior -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
